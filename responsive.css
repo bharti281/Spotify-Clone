@@ -1,0 +1,55 @@
+@media screen and (max-width: 675px){
+    .bottom{
+        height: 130px;
+    }
+    .icons{
+        margin-top: 50px;
+    }
+    .songInfo{
+        left: 27vw;
+    top: 25px;
+    }
+
+}
+@media screen and (max-width: 487px){
+    .songItem img {
+        
+        margin: 0 0px;
+       
+    }
+    .songItem{
+        width: 17rem;
+    }
+    .timeStamp {
+        margin: 0 5px;
+      
+    }
+    nav ul {
+        font-size: 16px;
+    }
+    nav{
+    width: 100vw;
+    }
+
+}
+
+@media screen and (max-width: 362px){
+
+   
+    .container{
+        
+        width: 80vw;
+    }
+}
+
+@media screen and (max-width: 315px){
+    .container{
+        
+        width: 17.5rem;
+        padding: 10px 2px;
+        /* margin: 10px 0px; */
+       
+    }
+    
+   
+}
